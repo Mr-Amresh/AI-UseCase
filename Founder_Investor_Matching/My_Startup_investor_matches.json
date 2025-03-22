@@ -1,0 +1,32 @@
+[
+  {
+    "investor_name": "Blume Ventures",
+    "match_score": 90,
+    "reasoning": "The startup founder and investor have a high compatibility. The founder is in the tech industry, specifically SaaS, which aligns perfectly with the investor's preferred industries. The founder is seeking $100,000, which falls within the investor's preferred investment range of $100,000 to $5 million. The founder's pre-seed stage aligns with the investor's preferred stages. Additionally, the founder's traction of 10,000 users and $50,000 in revenue demonstrates early success and potential, which is attractive to investors. The investor's focus on India is not a significant factor in this case, as there is no information provided about the founder's location."
+  },
+  {
+    "investor_name": "01 Ventures",
+    "match_score": 80,
+    "reasoning": "The founder's industry, stage, and funding requirements align well with the investor's preferences. Both are focused on Information Technology & Services, specifically within the pre-seed stage. The founder's request of $100,000 falls comfortably within the investor's preferred investment range. However, the investor's preference for UK and Netherlands may be a slight mismatch, depending on the founder's location.  The founder's traction with 10k users and $50k revenue presents a strong case for the investor, demonstrating early success and potential. Overall, the strong alignment in industry, stage, and funding, coupled with the founder's promising traction, makes this a highly compatible match."
+  },
+  {
+    "investor_name": "1 4 All Group",
+    "match_score": 80,
+    "reasoning": "The founder's industry (Tech) and business model (SaaS) align perfectly with the investor's preferred industries. The funding required ($100,000) falls well within the investor's investment range ($100K - $14M). Additionally, the founder's stage (Pre-Seed) matches the investor's preferred stages. The investor's preference for specific countries is not a factor in this case, as the location of the startup is not provided. The founder's traction (10K users, $50K revenue) suggests a promising early stage, further increasing compatibility."
+  },
+  {
+    "investor_name": "Kalaari Capital",
+    "match_score": 80,
+    "reasoning": "The startup founder and investor have a strong compatibility. The founder's industry (Tech, specifically SaaS) aligns with the investor's preferred industries (Consumer, Fintech, SaaS, Deep Tech). The founder's funding requirement of $100,000 falls within the investor's investment range of $500,000 to $10 million. The founder's pre-seed stage is also a preferred stage for the investor. Additionally, the founder's traction with 10K users and $50K revenue demonstrates early success, which is appealing to investors. The only potential mismatch is the investor's preference for India, which is not specified for the founder. However, the strong alignment in other areas suggests a good match."
+  },
+  {
+    "investor_name": "10D",
+    "match_score": 75,
+    "reasoning": "The founder's industry, stage, and business model align well with the investor's preferences. The investor focuses on Information Technology & Services, which encompasses Tech, and invests in Pre-seed stage companies. The founder's SaaS model fits within the broader IT & Services sector. However, the funding requirement of $100,000 is significantly lower than the investor's preferred range of $500,000 - $5 million.  While the investor may be willing to consider smaller investments, it's important to note that this could impact the equity offered to the investor and potentially lower the overall investment attractiveness.  The investor's focus on Israel as a preferred location may also be a factor depending on the founder's location."
+  },
+  {
+    "investor_name": "Vertx.ai",
+    "match_score": 70,
+    "reasoning": "While the investor's preferred industry is AI, SaaS, and Data Analytics, the founder's tech startup with a SaaS business model aligns well. The investor's preferred stage is Seed or Series A, while the founder is at Pre-Seed, creating a slight mismatch. However, the founder's traction with 10K users and $50K revenue demonstrates strong potential, which could attract the investor. The funding requirement of $100K is within the investor's range, further increasing compatibility. The investor's focus on India is irrelevant as no location information is provided for the founder."
+  }
+]

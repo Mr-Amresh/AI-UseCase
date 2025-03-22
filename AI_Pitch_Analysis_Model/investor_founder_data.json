@@ -1,0 +1,3502 @@
+[
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Series B",
+            "Funding Required": "5M+",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.27
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series B",
+            "Funding Required": "1M-5M",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.67
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Growth",
+            "Funding Required": "1M-5M",
+            "Traction": "No revenue",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.92
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.77
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Series A",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.35
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Series A",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.35
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.77
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series A",
+            "Funding Required": "5M+",
+            "Traction": "High Growth",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.07
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Series A",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.85
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.1
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Series B",
+            "Funding Required": "1M-5M",
+            "Traction": "No revenue",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.69
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Idea",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.34
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Idea",
+            "Funding Required": "1M-5M",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.08
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "Early revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.12
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Seed",
+            "Funding Required": "1M-5M",
+            "Traction": "Early revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.32
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Idea",
+            "Funding Required": "<100K",
+            "Traction": "No revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.25
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Idea",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.63
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series B",
+            "Funding Required": "5M+",
+            "Traction": "High Growth",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.97
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Series B",
+            "Funding Required": "5M+",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.25
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Idea",
+            "Funding Required": "100K-500K",
+            "Traction": "Profitable",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.37
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Series A",
+            "Funding Required": "<100K",
+            "Traction": "No revenue",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.54
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.04
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Seed",
+            "Funding Required": "1M-5M",
+            "Traction": "Early revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.09
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Seed",
+            "Funding Required": "5M+",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.42
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series B",
+            "Funding Required": "<100K",
+            "Traction": "Profitable",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.17
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series B",
+            "Funding Required": "100K-500K",
+            "Traction": "Profitable",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.51
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Idea",
+            "Funding Required": "5M+",
+            "Traction": "Profitable",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.82
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "No revenue",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.43
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "No revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.35
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Seed",
+            "Funding Required": "1M-5M",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.43
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.26
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Idea",
+            "Funding Required": "5M+",
+            "Traction": "No revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.64
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Idea",
+            "Funding Required": "100K-500K",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.08
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Series B",
+            "Funding Required": "500K-1M",
+            "Traction": "Profitable",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.81
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "1M-5M",
+            "Traction": "Early revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.41
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Growth",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.57
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Idea",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.82
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.71
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Idea",
+            "Funding Required": "1M-5M",
+            "Traction": "Early revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.82
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Series B",
+            "Funding Required": "1M-5M",
+            "Traction": "High Growth",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.84
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Seed",
+            "Funding Required": "1M-5M",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.87
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Growth",
+            "Funding Required": "5M+",
+            "Traction": "Early revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.57
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Idea",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.2
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Series B",
+            "Funding Required": "500K-1M",
+            "Traction": "Profitable",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.99
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Idea",
+            "Funding Required": "100K-500K",
+            "Traction": "Profitable",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.6
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Series B",
+            "Funding Required": "1M-5M",
+            "Traction": "Scaling",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.5
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Series A",
+            "Funding Required": "100K-500K",
+            "Traction": "High Growth",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.54
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Series B",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.04
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Series B",
+            "Funding Required": "100K-500K",
+            "Traction": "Early revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.07
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Series A",
+            "Funding Required": "1M-5M",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.82
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Series B",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.94
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series A",
+            "Funding Required": "<100K",
+            "Traction": "Profitable",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.36
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Growth",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.45
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "Profitable",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.25
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series B",
+            "Funding Required": "<100K",
+            "Traction": "Early revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.04
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Seed",
+            "Funding Required": "100K-500K",
+            "Traction": "High Growth",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.56
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Series B",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.93
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "Early revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.69
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Series B",
+            "Funding Required": "500K-1M",
+            "Traction": "High Growth",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.19
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "<100K",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.28
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Seed",
+            "Funding Required": "5M+",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.78
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Series A",
+            "Funding Required": "100K-500K",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.51
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Growth",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.83
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "<100K",
+            "Traction": "Early revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.48
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Series B",
+            "Funding Required": "500K-1M",
+            "Traction": "No revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.54
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Growth",
+            "Funding Required": "500K-1M",
+            "Traction": "High Growth",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.54
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Series A",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.1
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.3
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Idea",
+            "Funding Required": "1M-5M",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.72
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.33
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Series B",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.29
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Series B",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.42
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Idea",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.36
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Seed",
+            "Funding Required": "500K-1M",
+            "Traction": "High Growth",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.49
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Growth",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.13
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "<100K",
+            "Traction": "Profitable",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.69
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "Early revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.4
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "Profitable",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.13
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Growth",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.89
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "1M-5M",
+            "Traction": "Early revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.51
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Series B",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.54
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Idea",
+            "Funding Required": "5M+",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.91
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Growth",
+            "Funding Required": "1M-5M",
+            "Traction": "High Growth",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.55
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Series A",
+            "Funding Required": "5M+",
+            "Traction": "No revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.58
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Seed",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.89
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Growth",
+            "Funding Required": "5M+",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.16
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.25
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.7
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Series B",
+            "Funding Required": "500K-1M",
+            "Traction": "High Growth",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.18
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.34
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Idea",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.01
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Series A",
+            "Funding Required": "100K-500K",
+            "Traction": "Early revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.5
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Idea",
+            "Funding Required": "100K-500K",
+            "Traction": "High Growth",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.07
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Series B",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.73
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Series A",
+            "Funding Required": "5M+",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.39
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series A",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.45
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.16
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Profitable",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.37
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Series B",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.78
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "100K-500K",
+            "Traction": "High Growth",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.72
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.18
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Seed",
+            "Funding Required": "5M+",
+            "Traction": "Profitable",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.95
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Series B",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.36
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Idea",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.37
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Idea",
+            "Funding Required": "100K-500K",
+            "Traction": "Profitable",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.54
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Idea",
+            "Funding Required": "1M-5M",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.29
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Seed",
+            "Funding Required": "100K-500K",
+            "Traction": "High Growth",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.38
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Series A",
+            "Funding Required": "500K-1M",
+            "Traction": "Profitable",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.05
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Seed",
+            "Funding Required": "500K-1M",
+            "Traction": "No revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.25
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Idea",
+            "Funding Required": "5M+",
+            "Traction": "No revenue",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.54
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.81
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.1
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Growth",
+            "Funding Required": "500K-1M",
+            "Traction": "Profitable",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.73
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Idea",
+            "Funding Required": "500K-1M",
+            "Traction": "Early revenue",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.51
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Series B",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.4
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "1M-5M",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.4
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Series A",
+            "Funding Required": "100K-500K",
+            "Traction": "High Growth",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.56
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Series A",
+            "Funding Required": "100K-500K",
+            "Traction": "High Growth",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.85
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Profitable",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.25
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Seed",
+            "Funding Required": "500K-1M",
+            "Traction": "Early revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.38
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Seed",
+            "Funding Required": "1M-5M",
+            "Traction": "Early revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.89
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Series A",
+            "Funding Required": "500K-1M",
+            "Traction": "No revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.94
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "No revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.98
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Idea",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.8
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Growth",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.83
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Growth",
+            "Funding Required": "1M-5M",
+            "Traction": "No revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.94
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.14
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Seed",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.61
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Series A",
+            "Funding Required": "5M+",
+            "Traction": "Early revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.71
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series B",
+            "Funding Required": "<100K",
+            "Traction": "No revenue",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.99
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Series B",
+            "Funding Required": "5M+",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.32
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Growth",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.21
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Series B",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.45
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.5
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "500K-1M",
+            "Traction": "No revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.45
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Idea",
+            "Funding Required": "5M+",
+            "Traction": "High Growth",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.67
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Idea",
+            "Funding Required": "5M+",
+            "Traction": "Profitable",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.2
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Idea",
+            "Funding Required": "1M-5M",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.02
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Idea",
+            "Funding Required": "5M+",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.97
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Seed",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.7
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Seed",
+            "Funding Required": "5M+",
+            "Traction": "No revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.73
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.61
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Series A",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.77
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Growth",
+            "Funding Required": "100K-500K",
+            "Traction": "Profitable",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.75
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Series A",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.93
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.46
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Seed",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.53
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Growth",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.13
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series A",
+            "Funding Required": "100K-500K",
+            "Traction": "Profitable",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.95
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Seed",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.12
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Seed",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.15
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series B",
+            "Funding Required": "5M+",
+            "Traction": "Early revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.43
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Growth",
+            "Funding Required": "500K-1M",
+            "Traction": "High Growth",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.37
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Growth",
+            "Funding Required": "5M+",
+            "Traction": "High Growth",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.96
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.68
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "Scaling",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.65
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Idea",
+            "Funding Required": "500K-1M",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.05
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Growth",
+            "Funding Required": "5M+",
+            "Traction": "Early revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.65
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Series A",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.66
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "100K-500K",
+            "Traction": "High Growth",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.1
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Series B",
+            "Funding Required": "5M+",
+            "Traction": "No revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.77
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Series B",
+            "Funding Required": "<100K",
+            "Traction": "No revenue",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.79
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Idea",
+            "Funding Required": "100K-500K",
+            "Traction": "Early revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.25
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "500K-1M",
+            "Traction": "No revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.89
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Series A",
+            "Funding Required": "5M+",
+            "Traction": "Early revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.5
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Growth",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.55
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Seed",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.4
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "High Growth",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.07
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Series A",
+            "Funding Required": "1M-5M",
+            "Traction": "High Growth",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.01
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "No revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.25
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Series B",
+            "Funding Required": "500K-1M",
+            "Traction": "Profitable",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.87
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "No revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.03
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Series B",
+            "Funding Required": "500K-1M",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.94
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Growth",
+            "Funding Required": "500K-1M",
+            "Traction": "Early revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.33
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Series B",
+            "Funding Required": "5M+",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.17
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "High Growth",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.06
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Growth",
+            "Funding Required": "500K-1M",
+            "Traction": "High Growth",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.62
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.8
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Idea",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.07
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Idea",
+            "Funding Required": "1M-5M",
+            "Traction": "No revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.35
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series A",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.89
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.1
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "500K-1M",
+            "Traction": "No revenue",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.04
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Idea",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.99
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Series A",
+            "Funding Required": "<100K",
+            "Traction": "Early revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.28
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Series B",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.07
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Seed",
+            "Funding Required": "1M-5M",
+            "Traction": "Scaling",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.32
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Seed",
+            "Funding Required": "500K-1M",
+            "Traction": "Early revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.24
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.74
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Idea",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.98
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.41
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Series B",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.96
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Idea",
+            "Funding Required": "100K-500K",
+            "Traction": "Early revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.09
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Growth",
+            "Funding Required": "500K-1M",
+            "Traction": "High Growth",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.01
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Seed",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.99
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Growth",
+            "Funding Required": "5M+",
+            "Traction": "Profitable",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.02
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Seed",
+            "Funding Required": "5M+",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.58
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.19
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "Early revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.95
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Idea",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.96
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Series B",
+            "Funding Required": "<100K",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.2
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Growth",
+            "Funding Required": "1M-5M",
+            "Traction": "No revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.81
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Series B",
+            "Funding Required": "500K-1M",
+            "Traction": "No revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.47
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Idea",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.21
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Series B",
+            "Funding Required": "500K-1M",
+            "Traction": "Profitable",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.14
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Growth",
+            "Funding Required": "1M-5M",
+            "Traction": "Early revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.12
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Growth",
+            "Funding Required": "<100K",
+            "Traction": "No revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.57
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "Profitable",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.38
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Seed",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.66
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Seed",
+            "Funding Required": "500K-1M",
+            "Traction": "High Growth",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.22
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Seed",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.46
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Growth",
+            "Funding Required": "1M-5M",
+            "Traction": "No revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.97
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Idea",
+            "Funding Required": "5M+",
+            "Traction": "High Growth",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.04
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Series A",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.5
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Series B",
+            "Funding Required": "<100K",
+            "Traction": "Profitable",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.7
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Growth",
+            "Funding Required": "1M-5M",
+            "Traction": "High Growth",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.09
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series A",
+            "Funding Required": "500K-1M",
+            "Traction": "Profitable",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.04
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Idea",
+            "Funding Required": "100K-500K",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.03
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Idea",
+            "Funding Required": "<100K",
+            "Traction": "High Growth",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.95
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "<100K",
+            "Traction": "Early revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.44
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "No revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.44
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series A",
+            "Funding Required": "1M-5M",
+            "Traction": "Early revenue",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.64
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Growth",
+            "Funding Required": "1M-5M",
+            "Traction": "Scaling",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.92
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Profitable",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.69
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Growth",
+            "Funding Required": "500K-1M",
+            "Traction": "High Growth",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.82
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Idea",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.99
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Seed",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.32
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Series A",
+            "Funding Required": "500K-1M",
+            "Traction": "High Growth",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.84
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Early revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.55
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.61
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "<100K",
+            "Traction": "No revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.31
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Idea",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.27
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "500K-1M",
+            "Traction": "Profitable",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.34
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Series A",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.96
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "500K-1M",
+            "Traction": "Early revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "SaaS",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.75
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "5M+",
+            "Traction": "Early revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.46
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Growth",
+            "Funding Required": "500K-1M",
+            "Traction": "Profitable",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.52
+    },
+    {
+        "Founder Information": {
+            "Industry": "Blockchain",
+            "Startup Stage": "Idea",
+            "Funding Required": "1M-5M",
+            "Traction": "Profitable",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.93
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Seed",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.87
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Seed",
+            "Funding Required": "<100K",
+            "Traction": "Early revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.89
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Growth",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.37
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Series B",
+            "Funding Required": "<100K",
+            "Traction": "No revenue",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "5M+"
+        },
+        "Match Score": 0.56
+    },
+    {
+        "Founder Information": {
+            "Industry": "Healthcare",
+            "Startup Stage": "Idea",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "EdTech",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.21
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Seed",
+            "Funding Required": "500K-1M",
+            "Traction": "No revenue",
+            "Business Model": "Freemium"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.78
+    },
+    {
+        "Founder Information": {
+            "Industry": "EdTech",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "500K-1M",
+            "Traction": "Scaling",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "E-commerce",
+            "Investment Range": "500K-1M"
+        },
+        "Match Score": 0.89
+    },
+    {
+        "Founder Information": {
+            "Industry": "SaaS",
+            "Startup Stage": "Series B",
+            "Funding Required": "100K-500K",
+            "Traction": "No revenue",
+            "Business Model": "B2C"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.02
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Growth",
+            "Funding Required": "5M+",
+            "Traction": "Profitable",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Healthcare",
+            "Investment Range": "100K-500K"
+        },
+        "Match Score": 0.04
+    },
+    {
+        "Founder Information": {
+            "Industry": "AI",
+            "Startup Stage": "Seed",
+            "Funding Required": "<100K",
+            "Traction": "Scaling",
+            "Business Model": "B2B"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Fintech",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.7
+    },
+    {
+        "Founder Information": {
+            "Industry": "E-commerce",
+            "Startup Stage": "Pre-seed",
+            "Funding Required": "500K-1M",
+            "Traction": "No revenue",
+            "Business Model": "Marketplace"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "AI",
+            "Investment Range": "<100K"
+        },
+        "Match Score": 0.99
+    },
+    {
+        "Founder Information": {
+            "Industry": "Fintech",
+            "Startup Stage": "Seed",
+            "Funding Required": "100K-500K",
+            "Traction": "Profitable",
+            "Business Model": "Subscription"
+        },
+        "Investor Preferences": {
+            "Preferred Industry": "Blockchain",
+            "Investment Range": "1M-5M"
+        },
+        "Match Score": 0.17
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "01 Ventures",
+        "Website": "https://www.01ventures.com/",
+        "Global_HQ": "Netherlands",
+        "Countries": "UK,Netherlands",
+        "Stage": "Pre-seed, Idea, Prototype/MVP, Seed",
+        "Overview": "We invest in deep tech innovations including software and hardware solutions to the world's biggest challenges.",
+        "Type": "VC",
+        "Industry": "Information Technology & Services",
+        "Cheque_range": "$250K - $2M"
+    },
+    {
+        "Name": "1 4 All Group",
+        "Website": "https://1-4-all.group/",
+        "Global_HQ": "United Arab Emirates",
+        "Countries": "DRC Congo,Ethiopia,Kenya,South Africa,Brazil,Chile,Mexico,USA,China,Hong Kong,India,Indonesia,Japan,Kazakhstan,Malaysia,South Korea,Thailand,France,Germany,Italy,Poland,Romania,Spain,UK,Egypt,Saudi Arabia,Turkey,UAE",
+        "Stage": "Pre-seed, Seed, Series+",
+        "Overview": "We invest in all 6 economic sectors: Financial (fintech etc), Consumer (IoT, web3, prop tech food tech etc), Healthcare (longevity, biotech, pharmtech etc), Energy, Mining and Industrials (renewable, energy, mining tech etc), IT and Media (SaaS853, platform etc), Infrastructure, Real Estate and Utilities.",
+        "Type": "Family office",
+        "Industry": "Biotech, IoT, SaaS, Consumer, Energy, Fintech, Industrial, Media, Real Estate",
+        "Cheque_range": "$100K - $14M"
+    },
+    {
+        "Name": "10D",
+        "Website": "https://www.10d.vc/",
+        "Global_HQ": "Israel",
+        "Countries": "Israel",
+        "Stage": "Pre-seed, Idea, Prototype/MVP, Seed",
+        "Overview": "We invest in Israeli and Israeli-related exceptional entrepreneurs, from early-stage to Seed and Series A rounds.",
+        "Type": "VC",
+        "Industry": "Information Technology & Services",
+        "Cheque_range": "$500K - $5M"
+    },
+    {
+        "Name": "Blume Ventures",
+        "Website": "https://blume.vc/",
+        "Global_HQ": "India",
+        "Countries": "India",
+        "Stage": "Pre-seed, Seed, Series A",
+        "Overview": "We are an early-stage venture fund backing India's best startups in technology and innovation.",
+        "Type": "VC",
+        "Industry": "Technology, Consumer, Fintech, SaaS, Healthcare",
+        "Cheque_range": "$100K - $5M"
+    },
+    {
+        "Name": "Vertx.ai",
+        "Website": "https://www.vertx.ai/",
+        "Global_HQ": "India",
+        "Countries": "India",
+        "Stage": "Seed, Series A",
+        "Overview": "We invest in AI-driven startups pushing the boundaries of machine learning, automation, and data intelligence.",
+        "Type": "VC",
+        "Industry": "Artificial Intelligence, SaaS, Data Analytics",
+        "Cheque_range": "$500K - $10M"
+    },
+    {
+        "Name": "Sequoia Capital India",
+        "Website": "https://www.sequoiacap.com/india/",
+        "Global_HQ": "India",
+        "Countries": "India, Southeast Asia",
+        "Stage": "Seed, Series A, Series B, Growth",
+        "Overview": "We partner with founders to build legendary companies across India and Southeast Asia.",
+        "Type": "VC",
+        "Industry": "Technology, Consumer, Healthcare, Fintech, SaaS",
+        "Cheque_range": "$1M - $100M"
+    },
+    {
+        "Name": "Accel India",
+        "Website": "https://www.accel.com/india",
+        "Global_HQ": "India",
+        "Countries": "India",
+        "Stage": "Seed, Series A, Series B",
+        "Overview": "We invest in game-changing startups and support entrepreneurs from idea to scale.",
+        "Type": "VC",
+        "Industry": "Consumer, SaaS, Fintech, E-commerce",
+        "Cheque_range": "$500K - $50M"
+    },
+    {
+        "Name": "Nexus Venture Partners",
+        "Website": "https://nexusvp.com/",
+        "Global_HQ": "India, USA",
+        "Countries": "India, USA",
+        "Stage": "Seed, Series A, Series B",
+        "Overview": "We back bold entrepreneurs building global technology companies.",
+        "Type": "VC",
+        "Industry": "Software, AI, Consumer, Fintech",
+        "Cheque_range": "$1M - $20M"
+    },
+    {
+        "Name": "Kalaari Capital",
+        "Website": "https://www.kalaari.com/",
+        "Global_HQ": "India",
+        "Countries": "India",
+        "Stage": "Pre-seed, Seed, Series A",
+        "Overview": "We invest in early-stage technology startups with disruptive ideas.",
+        "Type": "VC",
+        "Industry": "Consumer, Fintech, SaaS, Deep Tech",
+        "Cheque_range": "$500K - $10M"
+    },
+    {
+        "Name": "Matrix Partners India",
+        "Website": "https://www.matrixpartners.in/",
+        "Global_HQ": "India",
+        "Countries": "India",
+        "Stage": "Seed, Series A, Series B",
+        "Overview": "We invest in ambitious entrepreneurs building impactful companies in India.",
+        "Type": "VC",
+        "Industry": "Technology, Consumer, Fintech, SaaS, Healthcare",
+        "Cheque_range": "$1M - $20M"
+    }
+]

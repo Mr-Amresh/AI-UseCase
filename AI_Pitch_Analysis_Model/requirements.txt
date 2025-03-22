@@ -1,0 +1,6 @@
+streamlit
+   pdfplumber
+   requests
+   google-generativeai
+   pytesseract
+   Pillow
