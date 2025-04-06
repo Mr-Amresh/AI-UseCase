@@ -197,6 +197,11 @@ with st.sidebar:
         placeholder="Enter your Gemini API Key...",
         help="Your Gemini API key is used securely and not shared."
     )
+
+    # Use default key if none is provided
+    if not gemini_api_key:
+        gemini_api_key = "AIzaSyDwLiS2uHId79Lhn2mwdr7dhNHZXYoHZl0"
+
     
     age_filter = st.selectbox(
         "Select Age Unit 🌟",
