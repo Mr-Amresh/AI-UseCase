@@ -5,10 +5,10 @@ import pytesseract
 import pandas as pd
 
 # 🔹 Set the correct path to the installed tesseract.exe
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"C:\your file location\tesseract.exe" 
 
 # 🔹 Configure Gemini API
-genai.configure(api_key="AIzaSyDwLiS2uHId79Lhn2mwdr7dhNHZXYoHZl0")  # Default API key
+genai.configure(api_key="your api key")  # Default API key
 AVAILABLE_MODELS = [
     "gemini-1.5-flash-001-tuning",
     "gemini-1.5-pro",
