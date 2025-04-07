@@ -143,7 +143,7 @@ Contributions are welcome! Fork the repo, open issues, or submit pull requests.
 
 **Amresh Yadav**  
 📧 Email: [maithilgeek@gmail.com](mailto:maithilgeek@gmail.com)  
-🔗 GitHub: [your-username](https://github.com/your-username)
+
 
 ---
 
