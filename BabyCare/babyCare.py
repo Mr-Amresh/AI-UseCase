@@ -7,7 +7,7 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.styles import getSampleStyleSheet
 
 # 🔹 Configure Gemini API
-#genai.configure(api_key="AIzaSyDwLiS2uHId79Lhn2mwdr7dhNHZXYoHZl0")  # Replace with your valid API key
+#genai.configure(api_key="Your_key")  # Replace with your valid API key
 GEMINI_MODEL = "gemini-1.5-flash-001-tuning"  # Corrected model name format
 
 # 🔹 Custom Styling (Baby-Themed)
